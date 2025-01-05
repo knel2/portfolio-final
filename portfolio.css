@@ -144,7 +144,7 @@ footer p {
 .top-intern {
   background-color: #E0DCAA;
   /* margin: 30px; */
-  margin-left: 550px;
+  margin-left: 480px;
   padding: 30px;
   border-radius: 20px;
 }
@@ -202,8 +202,19 @@ footer p {
 }
 
 .experiences {
-  padding: 20px;
-  margin: 20px;
+  padding: 8px;
+  margin-right: 60px;
+  /* margin: 10px; */
+}
+
+#led-img, #geodat-img, #hackathon-img, #intern-img {
+  width: 300px;
+}
+
+#led-cap , #geodat-cap, #hackathon, #intern-cap {
+  color: aliceblue;
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 

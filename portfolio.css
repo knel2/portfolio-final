@@ -1,0 +1,210 @@
+.name {
+  font-size: 90px;
+  text-align: center;
+  color: #80B9B1;
+  font-family: "DM Serif Display", serif;
+}
+
+nav {
+  background: #638872;
+  display:block;
+  margin-right: 40px;
+  margin-left: 40px;
+  padding: 20px;
+}
+
+.nav-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 70;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.nav-links li > a {
+  color: white;
+  margin: 30px;
+  font-family: "DM Serif Display", serif;
+}
+
+.nav-links li :hover {
+  color:rgb(43, 21, 121);
+}
+.contact {
+  color: white;
+}
+
+body {
+  background: #30253E;
+}
+
+.projects {
+  padding: 20px;
+  margin: 30px;
+  background-color: #94C7B4;
+}
+
+#concert {
+  width:150px;
+  border-radius: 50px;
+}
+
+.output {
+  background: #C3C88C;
+  float: right;
+}
+
+.contact {
+  background: #FD9E8D;
+  text-align: center;
+  padding: 20px;
+  margin: 30px;
+  font-weight: bolder;
+  font-size: 25;
+}
+
+#linkedlink {
+  color:  white;
+  font-weight: bold;
+}
+
+.designs {
+  background: #C3C88C;
+  width: 800;
+  height: 900;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.introduction {
+  background-color: #FD9E8D;
+  margin: 30px;
+  padding: 20px;
+  height: 550px;
+  border-radius: 20px;
+}
+
+#design {
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  font-family: "DM Serif Display", serif;
+}
+
+figcaption {
+  font-weight: bolder;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.designs img {
+  size: 30px;
+}
+
+footer p {
+  color: white;
+  font-size: 15px;
+  text-align: center
+}
+
+#about-head, #intern-head {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+#content {
+  font-family: "DM Serif Display", serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#profile-pic {
+  float: left;
+  width: 400px;
+  border-radius: 50%;
+}
+
+#about-head , #intern-head{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#intro {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "DM Serif Display", serif;
+}
+
+.top-intern {
+  background-color: #E0DCAA;
+  /* margin: 30px; */
+  margin-left: 550px;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+#fig-cap-webdev , #web-design-cap, #data-analysis-cap, #gis-cap, #reasearch-cap, #urban-plan-cap{
+  color: aliceblue;
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#just-myself, #oned, #winarc {
+  color:aliceblue;
+  font: 30px;
+}
+
+.playlists {
+  background-color: #94C7B4;
+  margin: 50px;
+  border-radius: 30px;
+}
+
+#web-dev-icon , #web-design-icon, #data-analysis-icon, #gis-icon, #reasearch-icon, #urban-plan-icon{
+  border-radius: 30px;
+  margin: 10px;
+}
+
+.interests {
+  background-color: #a37b47;
+  margin: 100px;
+  padding: 30px;
+}
+
+.checked {
+  color: yellow;
+}
+
+#low, #tbk, #twgo, #atypical, #todoporhija, #yakinda, #erkencikus, #ami, #twistedlove, #pintrest, #taco, #nature, #coldplay, #drawing, #gym, #swim, #horchata, #zoe, #gustavo, #tvgirl{
+  width: 160px;
+}
+
+#email-icon, #linked-icon, #pin-icon, #ints-icon {
+  width: 80px;
+  border-radius: 20px;
+}
+
+#email-cap, #linked-cap, #pin-cap, #ints-cap {
+  color: white
+}
+
+#contact-head {
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+.experiences {
+  padding: 20px;
+  margin: 20px;
+}
+
+
+

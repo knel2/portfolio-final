@@ -50,7 +50,7 @@ body {
 }
 
 #concert {
-  width:150px;
+  width:180px;
   border-radius: 50px;
 }
 
@@ -183,7 +183,7 @@ footer p {
   color: yellow;
 }
 
-#low, #tbk, #twgo, #atypical, #todoporhija, #yakinda, #erkencikus, #ami, #twistedlove, #pintrest, #taco, #nature, #coldplay, #drawing, #gym, #swim, #horchata, #zoe, #gustavo, #tvgirl{
+#low, #tbk, #twgo, #atypical, #todoporhija, #yakinda, #erkencikus, #ami, #twistedlove, #pintrest, #taco, #nature, #coldplay, #drawing, #gym, #swim, #horchata, #zoe, #gustavo, #tvgirl, #seattle-storm{
   width: 160px;
 }
 
@@ -207,11 +207,11 @@ footer p {
   /* margin: 10px; */
 }
 
-#led-img, #geodat-img, #hackathon-img, #intern-img {
+#led-img, #geodat-img, #hackathon-img, #intern-img, #husky-adapt{
   width: 300px;
 }
 
-#led-cap , #geodat-cap, #hackathon, #intern-cap {
+#led-cap , #geodat-cap, #hackathon, #intern-cap, #husky-adaptcap {
   color: aliceblue;
   font-size: 20px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;

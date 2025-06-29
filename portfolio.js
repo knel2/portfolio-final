@@ -14,7 +14,7 @@
 // }
 
 
-let sentence = "Hello welcome to my portfolio my name is Katherine I'm a junior at the University of Washington studying at Geography Data Science ";
+let sentence = "Hello welcome to my portfolio my name is Katherine I'm a junior at the University of Washington studying Geography Data Science with a minor in Leadership & Informatics";
 let section = document.querySelector('.output');
 let intro = document.querySelector('.projects');
 let contents = document.querySelector('#content');

@@ -44,9 +44,15 @@ body {
 }
 
 .projects {
-  padding: 20px;
-  margin: 30px;
+  padding: 100px;
+  margin: 80px;
   background-color: #94C7B4;
+}
+
+#geo-dat-header{
+  color:white;
+  text-decoration: solid;
+  font-size: 50px;
 }
 
 #concert {

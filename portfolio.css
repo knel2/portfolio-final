@@ -43,15 +43,13 @@ nav {
 
 body {
   background: #202808;
-    width: 100%;       /* Fills the horizontal screen space */
-    max-width: 1200px; /* Prevents the site from stretching too wide on giant monitors */
-    margin: 0 auto;    /* Centers the website content on the screen */
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;  
 }
 
 .sum {
   padding: 100px;
-  /* margin-left: 10px;
-  margin-right: 10px; */
   margin-bottom: 20px;
   margin-top: 20px;
   background-color: #6A784D;
@@ -64,9 +62,10 @@ body {
 }
 
 #concert {
-  width:300px;
-  border-radius: 50px;
-  float: left;
+  width:350px;
+  border-radius: 50%;
+  border-color: #587875;
+  border-style: solid;
 }
 /* 
 .output {
@@ -99,9 +98,6 @@ body {
 .introduction {
   background-color: #E8A582;
   margin: 20px;
-  /* margin: 30px;
-  padding: 20px;
-  height: 550px; */
   border-radius: 20px;
 }
 
@@ -123,8 +119,8 @@ figcaption {
 }
 
 footer p {
-  color: #1E3A2F;
-  font-size: 15px;
+  color: #F5EFE3;
+  font-size: 20px;
   text-align: center
 }
 
@@ -204,7 +200,7 @@ footer p {
 }
 
 #email-icon, #linked-icon, #pin-icon, #ints-icon {
-  width: 80px;
+  width: 70px;
   border-radius: 20px;
 }
 
@@ -229,6 +225,10 @@ footer p {
 
 #github-icon {
   width:50px;
+}
+
+#linkedlink:hover {
+  color: #F5EFE3;
 }
 
 

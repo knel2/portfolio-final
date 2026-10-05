@@ -38,7 +38,7 @@ nav {
   color:rgb(43, 21, 121);
 }
 .contact {
-  color: white;
+  color: #dec59e;
 }
 
 body {
@@ -48,7 +48,7 @@ body {
     margin: 0 auto;    /* Centers the website content on the screen */
 }
 
-.projects {
+.sum {
   padding: 100px;
   /* margin-left: 10px;
   margin-right: 10px; */
@@ -66,15 +66,15 @@ body {
 #concert {
   width:300px;
   border-radius: 50px;
+  float: left;
 }
-
-/* .output {
-
+/* 
+.output {
   float: right;
 } */
 
 .contact {
-  background: #FD9E8D;
+  background: #c4866d;
   text-align: center;
   padding: 20px;
   margin: 30px;
@@ -83,7 +83,7 @@ body {
 }
 
 #linkedlink {
-  color:  white;
+  color:  #dec59E;
   font-weight: bold;
 }
 
@@ -98,9 +98,10 @@ body {
 
 .introduction {
   background-color: #E8A582;
-  margin: 30px;
+  margin: 20px;
+  /* margin: 30px;
   padding: 20px;
-  height: 550px;
+  height: 550px; */
   border-radius: 20px;
 }
 
@@ -138,9 +139,6 @@ footer p {
   font-weight: bold;
   color: #dec59d;
   font-size: 25px;
-  width: 1090px;
-  text-align: right;
-  /* float:right; */
 }
 
 #profile-pic {
@@ -156,6 +154,7 @@ footer p {
 }
 
 #intro {
+  color: #dec59e;
   font-size: 25px;
   font-weight: bold;
   font-family: "DM Serif Display", serif;
@@ -163,9 +162,6 @@ footer p {
 
 .top-intern {
   background-color: #E0DCAA;
-  /* margin: 30px; */
-  margin-left: 480px;
-  padding: 30px;
   border-radius: 20px;
 }
 
@@ -219,12 +215,6 @@ footer p {
 #contact-head {
   font-size: 60px;
   font-weight: bolder;
-}
-
-.experiences {
-  padding: 8px;
-  margin-right: 60px;
-  /* margin: 10px; */
 }
 
 #led-img, #geodat-img, #hackathon-img, #intern-img, #husky-adapt, #img-geoai, #study, #geoai, #trivia{

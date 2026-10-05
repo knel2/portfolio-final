@@ -1,7 +1,9 @@
 
-let sentence = "Hello welcome to my portfolio my name is Katherine. I'm a recent graduate at the University of Washington with Bachelors in Geography Data Science with a minor in Informatics(IT)";
+let sentence = `Hello welcome to my portfolio my name is Katherine. 
+I'm a recent graduate at the University of Washington with 
+a Bachelors of Arts in Geography Data Science with a minor in Informatics(IT)`;
 let section = document.querySelector('.output');
-let intro = document.querySelector('.projects');
+let intro = document.querySelector('.sum');
 let contents = document.querySelector('#content');
 let count = 0;
 window.onload = function selfType() {

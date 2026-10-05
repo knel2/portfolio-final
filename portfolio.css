@@ -1,16 +1,18 @@
+
 .name {
   font-size: 90px;
   text-align: center;
-  color: #9A8E3C;
+  color: #dec59e;
   font-family: "DM Serif Display", serif;
 }
 
 nav {
-  background: #5B5727;
+  background: #33432B;
   display:block;
-  margin-right: 40px;
-  margin-left: 40px;
+  margin-right: 3px;
+  margin-left: 3px;
   padding: 20px;
+  border-radius: 15px;
 }
 
 .nav-links {
@@ -27,7 +29,7 @@ nav {
 }
 
 .nav-links li > a {
-  color: #EDD1A9;
+  color: #C4866D;
   margin: 30px;
   font-family: "DM Serif Display", serif;
 }
@@ -40,13 +42,19 @@ nav {
 }
 
 body {
-  background: #783841;
+  background: #202808;
+    width: 100%;       /* Fills the horizontal screen space */
+    max-width: 1200px; /* Prevents the site from stretching too wide on giant monitors */
+    margin: 0 auto;    /* Centers the website content on the screen */
 }
 
 .projects {
   padding: 100px;
-  margin: 80px;
-  background-color: #E8A582;
+  /* margin-left: 10px;
+  margin-right: 10px; */
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background-color: #6A784D;
 }
 
 #geo-dat-header{
@@ -60,10 +68,10 @@ body {
   border-radius: 50px;
 }
 
-.output {
-  background: #C3C88C;
+/* .output {
+
   float: right;
-}
+} */
 
 .contact {
   background: #FD9E8D;
@@ -80,11 +88,12 @@ body {
 }
 
 .designs {
-  background: #C3C88C;
+  background: #6a784d;
   width: 800;
   height: 900;
   margin-right: 20px;
   margin-left: 20px;
+  display: grid;
 }
 
 .introduction {
@@ -96,7 +105,7 @@ body {
 }
 
 #design {
-  color: white;
+  color: #dec59e;
   font-weight: bold;
   font-size: 50px;
   text-align: center;
@@ -113,7 +122,7 @@ figcaption {
 }
 
 footer p {
-  color: white;
+  color: #1E3A2F;
   font-size: 15px;
   text-align: center
 }
@@ -127,7 +136,11 @@ footer p {
 #content {
   font-family: "DM Serif Display", serif;
   font-weight: bold;
+  color: #dec59d;
   font-size: 25px;
+  width: 1090px;
+  text-align: right;
+  /* float:right; */
 }
 
 #profile-pic {

@@ -1,3 +1,7 @@
+@font-face {
+  font-family: "Courier Prime", monospace;
+  src: url("https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+}
 
 .name {
   font-size: 90px;
@@ -46,6 +50,7 @@ body {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;  
+    zoom: 90%;
 }
 
 .sum {
@@ -84,6 +89,9 @@ body {
 #linkedlink {
   color:  #dec59E;
   font-weight: bold;
+}
+.carousel {
+  width: 500px;
 }
 
 .designs {
@@ -124,14 +132,21 @@ footer p {
   text-align: center
 }
 
-#about-head, #intern-head {
+#about-head, #job-head {
   color: #C45C59;
   font-size: 30px;
   text-align: center;
 }
 
+#summary {
+  font-family: "Ubuntu", sans-serif;
+  color: #F5EFE3;
+  font-size: 20px;
+  font-weight: bold;
+}
+
 #content {
-  font-family: "DM Serif Display", serif;
+  font-family: "Courier Prime", monospace;
   font-weight: bold;
   color: #dec59d;
   font-size: 25px;
@@ -156,7 +171,11 @@ footer p {
   font-family: "DM Serif Display", serif;
 }
 
-.top-intern {
+.job-interests {
+  margin-top: 20px;
+}
+
+.top-job {
   background-color: #E0DCAA;
   border-radius: 20px;
 }

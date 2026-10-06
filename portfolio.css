@@ -72,10 +72,6 @@ body {
   border-color: #587875;
   border-style: solid;
 }
-/* 
-.output {
-  float: right;
-} */
 
 .contact {
   background: #c4866d;
@@ -133,7 +129,8 @@ footer p {
 }
 
 #about-head, #job-head {
-  color: #C45C59;
+  color: #C4868D;
+  font-weight: bold;
   font-size: 30px;
   text-align: center;
 }
@@ -173,6 +170,7 @@ footer p {
 
 .job-interests {
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .top-job {
@@ -202,6 +200,7 @@ footer p {
 #web-dev-icon , #web-design-icon, #data-analysis-icon, #gis-icon, #reasearch-icon, #urban-plan-icon{
   border-radius: 30px;
   margin: 10px;
+  width: 150px;
 }
 
 .interests {
@@ -250,5 +249,8 @@ footer p {
   color: #F5EFE3;
 }
 
+.design {
+  width: 300px;
+}
 
 

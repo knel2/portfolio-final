@@ -87,16 +87,20 @@ body {
   font-weight: bold;
 }
 .carousel {
-  width: 500px;
+  width: 300px;
 }
 
-.designs {
+/* .designs {
   background: #6a784d;
   width: 800;
   height: 900;
   margin-right: 20px;
   margin-left: 20px;
   display: grid;
+} */
+.card{
+  margin-bottom: 20px ;
+  width: 20px;
 }
 
 .introduction {
@@ -214,15 +218,15 @@ footer p {
 }
 
 #low, #tbk, #twgo, #atypical, #todoporhija, #yakinda, #erkencikus, #ami, #twistedlove, #pintrest, #taco, #nature, #coldplay, #drawing, #gym, #swim, #horchata, #zoe, #gustavo, #tvgirl, #seattle-storm{
-  width: 160px;
+  width: 120px;
 }
 
-#email-icon, #linked-icon, #pin-icon, #ints-icon {
-  width: 70px;
+#email-icon, #linked-icon, #pin-icon, #ints-icon, #github-icon{
+  width: 60px;
   border-radius: 20px;
 }
 
-#email-cap, #linked-cap, #pin-cap, #ints-cap {
+#email-cap, #linked-cap, #pin-cap, #ints-cap, #git-cap{
   color: white
 }
 
@@ -239,10 +243,6 @@ footer p {
   color: aliceblue;
   font-size: 20px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-#github-icon {
-  width:50px;
 }
 
 #linkedlink:hover {

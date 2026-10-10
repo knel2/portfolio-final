@@ -3,6 +3,14 @@
   src: url("https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 }
 
+.btn{
+  background-color:#C4868D;
+}
+
+.card {
+  background-color: #dec5de;
+}
+
 .name {
   font-size: 90px;
   text-align: center;

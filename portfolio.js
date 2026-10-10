@@ -1,5 +1,5 @@
 
-let sentence = `Hello, wellcome to my portfolio! `;
+let sentence = `Hello, welcome to my portfolio! `;
 let section = document.querySelector('.output');
 let intro = document.querySelector('.sum');
 let contents = document.querySelector('#content');

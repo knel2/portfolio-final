@@ -58,7 +58,7 @@ body {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;  
-    zoom: 90%;
+    zoom: 120%;
 }
 
 .sum {
@@ -122,6 +122,7 @@ body {
   font-weight: bold;
   font-size: 50px;
   text-align: center;
+  margin-top: 20px;
   font-family: "DM Serif Display", serif;
 }
 

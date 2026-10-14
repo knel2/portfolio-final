@@ -98,14 +98,7 @@ body {
   width: 300px;
 }
 
-/* .designs {
-  background: #6a784d;
-  width: 800;
-  height: 900;
-  margin-right: 20px;
-  margin-left: 20px;
-  display: grid;
-} */
+
 .card{
   margin-bottom: 20px ;
   width: 20px;
@@ -141,7 +134,7 @@ footer p {
   text-align: center
 }
 
-#about-head, #job-head {
+#about-head, #job-head, #current-head {
   color: #C4868D;
   font-weight: bold;
   font-size: 30px;
@@ -181,9 +174,21 @@ footer p {
   font-family: "DM Serif Display", serif;
 }
 
-.job-interests {
+.job-interests, .updates{
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+.updates a, .updates p {
+  color: #C4868D;
+  font-size: 25px;
+  padding: 30px;
+  margin: 20px;
+}
+
+.updates {
+  background-color: #E0DCAA;
+  border-radius: 20px;
 }
 
 .top-job {
